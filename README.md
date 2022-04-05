@@ -17,6 +17,3 @@ After the input is taken, prompt appears which decides whether individual has a 
 ### Clone the repository on the desktop for proper functioning of the GUI
 #### Feel Free to email me for any other quries. :)
 #### This project is part of my University Mini-Project and thus has a very basic form of functionalities and interfaces.
-# heart-disease-prediction
-# heart-disease-prediction
-# heart-disease-prediction
